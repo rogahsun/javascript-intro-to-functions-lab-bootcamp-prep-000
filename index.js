@@ -12,7 +12,6 @@ function sayHiToGrandma(string){
     }
       
 }
-var spy = "hello!"
-function logShout(string) {
-  console.log(spy.toUpperCase)
+function logShout(string){
+  console.log(string.toUpperCase())
 }
