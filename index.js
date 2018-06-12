@@ -8,7 +8,10 @@ function whisper(string) {
 
 function sayHiToGrandma(string){
     if(string.toUpperCase() === string){
-      console.log("YES INDEED!")
+      return("YES INDEED!")
+    }
+    else if (string.toLowerCase()===string){
+      
     }
       
 }
