@@ -12,7 +12,7 @@ function sayHiToGrandma(string){
     }
       
 }
-
+var spy = "hello!"
 function logShout(string) {
   console.log(spy.toUpperCase)
 }
